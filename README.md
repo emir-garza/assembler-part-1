@@ -18,7 +18,8 @@ Link: [](https://learn.ibm.com/course/view.php?id=12127)
 # Duration: 
 3 Days 
 
-# Contact info: Mark Bylok | mbylok@ca.ibm.com 
+# Contact info: 
+Mark Bylok | mbylok@ca.ibm.com 
 
 # Credly Support:
 For questions related to your Credly badge earner account and profile, as well as issues related to claiming your badge after receiving a notification, go to support.credly.com. 
